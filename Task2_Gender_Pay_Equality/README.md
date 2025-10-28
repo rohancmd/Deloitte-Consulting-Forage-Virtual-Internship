@@ -1,18 +1,18 @@
-# ⚖️ Task 2 – Gender Pay Equality Analysis
+# Task 2 – Gender Pay Equality Analysis
 
-## 🧩 Objective
+## Objective
 Daikibo Industrials received multiple internal complaints regarding gender pay inequality.  
 The goal of this task was to analyze salary data and classify the **level of pay equality** for different job roles across global factory locations.
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 - **Microsoft Excel** – for data manipulation and formula creation  
 - **Conditional Logic (IF, AND, OR)** – for automated classification  
 
 ---
 
-## ⚙️ Process Overview
+## Process Overview
 1. Opened the provided dataset `Equality Table.xlsx` containing three columns:
    - Factory  
    - Job Role  
