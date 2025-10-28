@@ -1,6 +1,6 @@
-# 📊 Task 1 – Daikibo Telemetry Data Analysis
+#  Task 1 – Daikibo Telemetry Data Analysis
 
-## 🧩 Objective
+## Objective
 The objective of this task was to analyze machine telemetry data collected from Daikibo’s four factories located in Japan, China, and Germany.  
 Each machine sent performance logs every 10 minutes, and the goal was to determine:
 1. Which factory had the most machine downtime.
@@ -8,14 +8,14 @@ Each machine sent performance logs every 10 minutes, and the goal was to determi
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 - **Tableau** – for data visualization and dashboard creation  
 - **JSON** – as the raw telemetry data format  
 - **Calculated Fields** – for downtime computation
 
 ---
 
-## ⚙️ Process Overview
+## Process Overview
 1. Imported the provided `daikibo-telemetry-data.json` file into Tableau.
 2. Created a calculated field called **`Unhealthy`** using the formula:
    ```text
